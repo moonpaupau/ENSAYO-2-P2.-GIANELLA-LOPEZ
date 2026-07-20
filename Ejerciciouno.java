@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author PAUL LOPEZ
+ * @author Gianella Paulina Lopez Mora
  */
 public class Ejerciciouno {
 
